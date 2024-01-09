@@ -1,0 +1,29 @@
+body {
+    background:white;
+    max-height:1200px;
+    margin:auto;
+
+}
+
+h1 {
+    padding: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(246, 222, 6);
+    text-align:center;
+    margin:auto;
+    background:salmon;
+   }
+
+    
+   
+
+
+p {
+    color:antiquewhite;
+}
+
+h3 {
+    
+    color: blanchedalmond; 
+}
+
