@@ -41,6 +41,7 @@ main {
 img{
 max-width: 50%;
 max-height: 50%;
+position:center;
 }
 footer {
     background-color: springgreen;
