@@ -27,6 +27,10 @@ main {
     flex: 1;
 }
 
+img{
+    text-align:center;
+}
+
 footer {
     background-color: springgreen;
     max-width: 100%;
