@@ -38,11 +38,14 @@ main {
     flex: 1;
 }
 
-img{
-max-width: 50%;
-max-height: 50%;
-position:center;
+img {
+    max-width: 50%;
+    max-height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 footer {
     background-color: springgreen;
     max-width: 100%;
