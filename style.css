@@ -2,7 +2,7 @@ body {
     background:lightgray;
     min-height: 100vh;
     margin: 0;
-    display: flex;
+    display:flex;
     flex-direction: column;
     cursor: url('https://fav.farm/👆') 15 0, auto;
 }
@@ -55,5 +55,29 @@ footer {
     padding: 60px;
     text-align:center;
     font-size:25px;
+}
+
+.card {
+	width: 100%;
+	max-width: 400px;
+	border: 2px solid #ddd;
+	height: 400px;
+	margin: auto;
+	background-color:cornflowerblue;
+	
+}
+
+.cards {
+	background-color:lightgray;
+	display: flex;
+	flex-direction: column;
+}
+
+@media (min-width: 100px) {
+	.cards {
+		flex-direction:row;
+		
+	}
+	
 }
 
