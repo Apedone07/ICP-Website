@@ -24,7 +24,7 @@ h2{
 }
 
 p {
-    color: rgb(238, 19, 19);
+    color:black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight:bold;
 }
@@ -33,7 +33,6 @@ h3{
     text-align:center;
     font-weight:bold;
     color:black;
-    margin-top:50px;
 }
 
 main {
@@ -53,7 +52,7 @@ footer {
     max-width: 100%;
     margin-top: auto;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding: 60px;
+    padding:300px;
     text-align:center;
     font-size:25px;
 }
@@ -64,21 +63,5 @@ footer {
 	border: 2px solid #ddd;
 	height: 400px;
 	margin: auto;
-	background-color:cornflowerblue;
-	
-}
-
-.cards {
-	background-color:lightgray;
-	display: flex;
-	flex-direction: column;
-}
-
-@media (min-width: 100px) {
-	.cards {
-		flex-direction:row;
-		
-	}
-	
-}
-
+	background-color:#86FF99;  
+}        
