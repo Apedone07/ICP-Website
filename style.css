@@ -57,13 +57,20 @@ footer {
     font-size: 25px;
 }
 
-.card {
-    width: 100%;
-    max-width: 400px;
-    border: 2px solid #ddd;
-    height: 400px;
-    margin: 16px;
-    background-color:#86FF99;
-    justify-content: center;
-    display:flex;
+   .card {
+	width: 100%;
+	max-width: 400px;
+	border: 2px solid #ddd;
+	height: 400px;
+	margin: auto;
+	background-color:cornflowerblue;
+	
 }
+
+.cards {
+	background-color:lightgray;
+	display: flex;
+	flex-direction: column;
+}
+
+
