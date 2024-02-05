@@ -63,6 +63,7 @@ footer {
     border: 2px solid #ddd;
     height: 400px;
     margin: 16px;
-    justify-content:center;
-    background-color: #86FF99;
+    background-color:#86FF99;
+    justify-content: center;
+    display:flex;
 }
