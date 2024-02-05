@@ -52,7 +52,7 @@ footer {
     max-width: 100%;
     margin-top: auto;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding: 16px;
+    padding: 30px;
     text-align: center;
     font-size: 25px;
 }
@@ -63,5 +63,6 @@ footer {
     border: 2px solid #ddd;
     height: 400px;
     margin: 16px;
+    justify-content:center;
     background-color: #86FF99;
 }
