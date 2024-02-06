@@ -10,7 +10,7 @@ body {
 h1 {
     padding: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color: rgb(237, 215, 11);
+    color:#fc9191;
     text-align: center;
     margin: auto;
     border: 700px;
@@ -63,7 +63,7 @@ footer {
 	border: 2px solid #ddd;
 	height: 400px;
 	margin: auto;
-	background-color:cornflowerblue;
+	background-color:rgb(144, 166, 228);
    }
 	 
 .cards {
