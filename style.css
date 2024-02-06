@@ -14,7 +14,7 @@ h1 {
     text-align: center;
     margin: auto;
     border: 700px;
-    background: rgb(114, 141, 250);
+    background: rgba(114, 141, 250, 0.69);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
