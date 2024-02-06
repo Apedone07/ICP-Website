@@ -58,19 +58,14 @@ footer {
 }
 
    .card {
-	width: 100%;
+    width: 100%;
 	max-width: 400px;
 	border: 2px solid #ddd;
 	height: 400px;
 	margin: auto;
 	background-color:cornflowerblue;
-	
-}
-
+   }
+	 
 .cards {
-	background-color:lightgray;
 	display: flex;
-	flex-direction: column;
 }
-
-
