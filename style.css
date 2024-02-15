@@ -1,20 +1,21 @@
 body {
     background: lightgray;
     min-height: 100vh;
-    margin: 0;
+    margin:0px;
     display: flex;
     flex-direction: column;
     cursor: url('https://fav.farm/👆') 15 0, auto;
 }
 
 h1 {
-    padding: 25px;
+    padding:120px 0;
     font-family: 'Times New Roman', Times, serif;
-    color:#fc9191;
-    text-align: center;
-    margin: auto;
-    border: 700px;
-    background: rgba(114, 141, 250, 0.69);
+    color:#FFE990;
+    text-align:center;
+    font-weight: bold;
+    margin:auto;
+    width:100%;
+    background:#90A6FF;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -24,19 +25,25 @@ h2 {
 }
 
 p {
-    color: black;
+    color:black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
+    
 }
 
 h3 {
     text-align: center;
     font-weight: bold;
     color: black;
+   
+    
 }
 
 main {
     flex: 1;
+    padding:100px;
+    
+    
 }
 
 img {
@@ -54,6 +61,7 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 30px;
     text-align: center;
+    padding:200px;
     font-size: 25px;
 }
 
@@ -61,11 +69,18 @@ footer {
     width: 100%;
 	max-width: 400px;
 	border: 2px solid #ddd;
-	height: 400px;
+	height: 300px;
 	margin: auto;
-	background-color:rgb(144, 166, 228);
+	background-color:#90A6FF;
    }
 	 
 .cards {
 	display: flex;
 }
+
+img{
+    width:2000px;
+    height:600px;
+    
+}
+
